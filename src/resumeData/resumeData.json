@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "JayaSai Somasundaram",
+    "occupation": "Computer Science Student at Georgia Institute of Technology",
+    "description": "Discretionary Trading, Full Stack Development, Algoithmic Problem Solving, AWS Cloud Computing",
+    "bio": "Since childhood, I have enjoyed exploring new endeavors that pose new challenges. I use my love for problem solving to discover oppurtunities to implement programmatic solutions. Currently, I am looking for oppurtunities to expand my professional skill set through software engineering or fintech roles. Besides my professional interest, I also enjoy sports and outdoor activities. Some of my favorites are hiking, skiing and playing volleyball with friends. I love talking about news in tech, business and volleyball. Feel free to reach out through the contact button and start the conversation.",
+    "email": "jsomasundaram3@gatech.edu",
+    "phone": "954-895-8246",
+    "hometown": "Miami",
+    "address": {
+      "street": "860 Peachtree St Unit 2311",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30308"
+    },
+    "website": "https://github.com/jsai23",
+    "resumedownload": "../../public/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/jsai23",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jayasai-somasundaram-a0b9b5211",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jsai2314/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor",
+        "graduated": "May 2024",
+        "description": "Majored in Computer Science, Specialized in People and Intelligence"
+      },
+      {
+        "school": "American Heritage Plantation",
+        "degree": "High School",
+        "graduated": "May 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      
+      {
+        "company": "ADSC",
+        "title": "Co-Founder",
+        "years": "January 2022",
+        "description": "Automating E-Commerce Store Creation in order to increase industry accessibility and improving seller side productivity."
+      },
+      {
+        "company": "PINS Institue of Technology",
+        "title": "Web Development Manager ",
+        "years": "May 2022 - August 2022",
+        "description": "Utilized CMS systems along with code to optimize production website"
+      }
+    ],
+    "skills": [
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SalesStrike Web Project",
+        "description": "Full Stack platform to facilitate dropshiping and e-commerce.",
+        "category": "React Project",
+        "image": "js.png",
+        "url": "https://github.com/DreamTeamSE/MilkBankOptimizer"
+      },
+      {
+        "title": "Cochlear Implant Tuning AutoEncoder",
+        "description": "Auto-Encoder to tune Hearing Aids without Objective error.",
+        "category": "Python App",
+        "image": "python.png",
+        "url": "https://github.com/youradsc/SalesStrikeV1"
+      },
+      {
+        "title": "AWS Stack Deployment",
+        "description": "Worked with cofounder for backend stack AWS Deployment",
+        "category": "Python and Go Infrastructure",
+        "image": "aws.png",
+        "url": "https://github.com/youradsc/adsc-repo"
+      },
+      {
+        "title": "Supervised and Unsupervised Learning Based Long Term Stock Projection",
+        "description": "Worked with group on developing a system to utilize both types of ML to project stock trajectory",
+        "category": "Python, Numpy, MatLib",
+        "image": "python.png",
+        "url": "https://github.gatech.edu/anguyen373/4641-Group-Project"
+      }
+    ]
+  }
+}
