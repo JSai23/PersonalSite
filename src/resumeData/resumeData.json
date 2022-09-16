@@ -74,14 +74,14 @@
         "description": "Full Stack platform to facilitate dropshiping and e-commerce.",
         "category": "React Project",
         "image": "js.png",
-        "url": "https://github.com/DreamTeamSE/MilkBankOptimizer"
+        "url": "https://github.com/youradsc/SalesStrikeV1"
       },
       {
         "title": "Cochlear Implant Tuning AutoEncoder",
         "description": "Auto-Encoder to tune Hearing Aids without Objective error.",
         "category": "Python App",
         "image": "python.png",
-        "url": "https://github.com/youradsc/SalesStrikeV1"
+        "url": "https://github.com/JSai23/Cochlear_Implants"
       },
       {
         "title": "AWS Stack Deployment",
@@ -95,7 +95,7 @@
         "description": "Worked with group on developing a system to utilize both types of ML to project stock trajectory",
         "category": "Python, Numpy, MatLib",
         "image": "python.png",
-        "url": "https://github.gatech.edu/anguyen373/4641-Group-Project"
+        "url": "https://jsai23.github.io/4641MLStockProj/"
       }
     ]
   }
