@@ -2,4 +2,4 @@
 
 Update Local Code
 Run npm run deploy
-Set custom domain in github console to www.vijayasaisomasundaram.com
+Set custom domain in github console to www.jayasaisomasundaram.com
