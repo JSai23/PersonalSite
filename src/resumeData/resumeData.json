@@ -2,7 +2,7 @@
   "main": {
     "name": "JayaSai Somasundaram",
     "occupation": "Computer Science Student at Georgia Institute of Technology",
-    "description": "Discretionary Trading, Full Stack Development, Algoithmic Problem Solving, AWS Cloud Computing",
+    "description": "Discretionary Trading, Full Stack Development, Algoithmic Problem Solving, AWS Cloud Computing, Applied Ai/ML, Embedded Systems",
     "bio": "Since childhood, I have enjoyed exploring new endeavors that pose new challenges. I use my love for problem solving to discover oppurtunities to implement programmatic solutions. Currently, I am looking for oppurtunities to expand my professional skill set through software engineering or fintech roles. Besides my professional interest, I also enjoy sports and outdoor activities. Some of my favorites are hiking, skiing and playing volleyball with friends. I love talking about news in tech, business and volleyball. Feel free to reach out through the contact button and start the conversation.",
     "email": "jsomasundaram3@gatech.edu",
     "phone": "954-895-8246",
@@ -49,6 +49,12 @@
       }
     ],
     "work": [
+      {
+        "company": "American Express",
+        "title": "SWE Internship",
+        "years": "May 2023",
+        "description": "Migrated on-site infrastructure utilizing the 6 Rs of migration (re-host, re-platform, repurchase, retain, retire, and re- factor) into Cloud Native Architecture programmed in Python and GoLang to optimize latency of Distributed Systems deployment that play active roles in Fraud Detection Technology starting from POS systems."
+      },
       
       {
         "company": "ADSC",
